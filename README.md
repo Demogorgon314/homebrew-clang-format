@@ -1,8 +1,8 @@
 # Homebrew clang-format
 
-> Old version of clang-format
+> Old version of clang-format@5
 
-## Install clang-format-5
+## Install clang-format@5
 
 ### step 1: Add tap
 
