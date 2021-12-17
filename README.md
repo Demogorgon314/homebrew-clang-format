@@ -4,13 +4,13 @@
 
 ## Install clang-format@5
 
-### step 1: Add tap
+### Step 1: Add tap
 
 ```bash
 brew tap demogorgon314/clang-format
 ```
 
-### step 2: Install clang-format
+### Step 2: Install clang-format
 
 ```bash
 brew install clang-format@5
@@ -20,13 +20,13 @@ brew install clang-format@5
 
 ### Uninstall clang-format
 
-### step 1: uninstall clang-format
+### Step 1: Uninstall clang-format
 
 ```bash
 brew uninstall clang-format@5
 ```
 
-### step 2: untap formula
+### Step 2: Untap formula
 
 ```bash
 brew untap demogorgon314/clang-format
